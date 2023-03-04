@@ -7,8 +7,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=SarraMsl)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub metrics](https://metrics.lecoq.io/SarraMsl)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SarraMsl)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SarraMsl&show_icons=true&count_private=true)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SarraMsl)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub metrics](https://metrics.lecoq.io/SarraMsl)  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SarraMsl)  
 
